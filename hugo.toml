@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Tu Pack Support Desk"
 
 # Language settings
 contentDir = "content/en"
@@ -59,14 +59,14 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Tu Pack Support Desk"
+description = "Tu Pack Support Desk and Knowledge Base"
 
 [languages.no]
 languageName ="Norsk"
 contentDir = "content/no"
 [languages.no.params]
-title = "Goldydocs"
+title = "Tu Pack Support Desk"
 description = "Docsy er operativsystem for skyen"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
@@ -123,7 +123,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/indianabutts/tupack_kb"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/google/docsy"
 
