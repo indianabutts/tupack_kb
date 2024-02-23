@@ -24,3 +24,9 @@ The charges on your Xero invoice are as follows:
 | **Generic Admin Cost** | This is the admin cost from your pricing schedule. The admin charge is to cover your support from the Success Team, the Finance Team and general warehouse administration |
 | **Returns**            | This is the cost for the processing of your returns                                                                                                                       |
 | **Storage costs**      | Calculated from your stock levels throughout the week, these are updated and calculated on a Sunday                                                                       |
+
+## Understanding your Mintsoft Invoice
+
+Your Mintsoft invoice will be much more detailed and itemised, so you can really scrutinise where your costs are coming from.
+
+There are multiple sections 
