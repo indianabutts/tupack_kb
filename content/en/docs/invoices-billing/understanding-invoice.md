@@ -5,6 +5,7 @@ description: >
   Learn what each item of your invoices mean
 categories: [Examples]
 tags: [test, sample, docs]
+weight: 4
 ---
 
 Every week you'll receive two invoices from us:
