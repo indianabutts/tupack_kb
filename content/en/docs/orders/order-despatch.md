@@ -1,8 +1,8 @@
 ---
-title: Wholesale Orders
+title: When are Orders Despatched
 date: 2017-01-05
 description: >
-  How to create a wholesale order
+  Orders can be despatched the same-day if they meet our cut-off time.
 categories: [Examples]
 weight: 1
 tags: [test, sample, docs]
