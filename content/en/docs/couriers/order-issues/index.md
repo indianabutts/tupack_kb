@@ -5,6 +5,9 @@ categories: [Examples]
 weight: 3
 tags: [test, sample, docs]
 ---
+{{% alert title="Note" %}}
+While we strive to resolve issues quickly, this process is dependent on the third-party couriers. During you claim, our Customer Success team will keep you up to date with any feedback from the couriers, and any expected timelines
+{{% /alert %}}
 We're so sorry that something isn't quite right with one of your deliveries.
 
 There are typically two ways to claim against a delivery by the courier.
@@ -53,20 +56,4 @@ To facilitate the process we'll require the following information:
 5. Pictures of the internal and external packaging, highlighting any damage (if any)
 6. A readable picture of the shipping labels
 
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/4372ff12966d23bc2af6148f39871ec5?embedded=1"></div>
-
-<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
-
-<!-- Get notified when the form is submitted, add your own code below: -->
-<script>
-const formkeepEmbed = document.querySelector('#formkeep-embed')
-
-formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
-  console.log('Submitting form...')
-})
-
-formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
-  console.log('Submitted form...')
-})
-</script>
+![Claim for Damage Form](claim-for-damage.PNG "Claim for Damage Form")
