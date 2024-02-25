@@ -5,3 +5,5 @@ categories: [Examples]
 weight: 100
 tags: [test, sample, docs]
 ---
+
+We are open from 8 am to 5 pm Monday to Friday, excluding Bank Holidays.
