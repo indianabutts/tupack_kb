@@ -6,9 +6,9 @@ weight: 100
 tags: [test, sample, docs]
 ---
 
-At Tu Pack we have a fantastic in-house packaging solution that all of our clients have access to. We have a wide variety of high-quality packaging to suit the needs of every brand and we are so proud that it is sustainable and recyclable too!
+At Tu Pack we have a fantastic in-house packaging solution that all of our clients have access to. We have a wide variety of high-quality packaging to suit the needs of every brand and we are so proud that it's sustainable and recyclable too!
 
-Our Procurement Officer and Customer Success Manager would be more than happy to arrange a meeting with you at the warehouse to show you all that we have to offer and create a new packing process based on your stock and selected packaging products. Please submit a ticket via the Success Portal using the form 'Packaging' with your requirements and we will get back to you as soon as possible. 
+Our Procurement Officer and Customer Success Manager would be more than happy to arrange a meeting with you at the warehouse to show you all that we have to offer and create a new packing process based on your stock and selected packaging products. Please submit a ticket via the Success Portal using the form 'Packaging' with your requirements and we'll get back to you as soon as possible. 
 
 Alternatively you can submit your request using the form at the end of this article.
 
@@ -63,5 +63,5 @@ Some text and maybe a picture about this item
 
 {{< /tabpane >}}
 
-
+## Package Service Inquiry Form
 ![Packaging Form](form.png "Packaging Form")
