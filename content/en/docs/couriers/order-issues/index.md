@@ -57,3 +57,4 @@ To facilitate the process we'll require the following information:
 6. A readable picture of the shipping labels
 
 ![Claim for Damage Form](claim-for-damage.PNG "Claim for Damage Form")
+
