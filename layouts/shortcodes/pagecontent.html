@@ -1,0 +1,9 @@
+{{ with .Get 0 }}
+  {{$filename := .}}
+  {{ with site.GetPage $filename }}
+
+  {{ .Content }}
+
+  {{end}}
+
+{{ end }}
