@@ -2,7 +2,7 @@
 title: 'Work Orders'
 date: '2024-02-25T18:07:20Z'
 categories: [Examples]
-weight: 100
+weight: 112
 tags: [test, sample, docs]
 ---
 A Work Order is an ad-hoc task that you would like us to complete for your brand. 

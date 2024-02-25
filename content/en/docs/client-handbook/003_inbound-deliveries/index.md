@@ -2,7 +2,7 @@
 title: 'Inbound Deliveries'
 date: '2024-02-25T15:45:08Z'
 categories: [Examples]
-weight: 100
+weight: 103
 tags: [test, sample, docs]
 ---
 Following our Inbound Policy should enable us to book your inbound delivery into our WMS within 2 working days. This will mean that your stock can go live quicker and thus get to your customers faster. Failure to follow our procedures will significantly slow down our process as this will disrupt how we coordinate the movement of your stock.

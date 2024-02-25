@@ -2,7 +2,7 @@
 title: 'Ecommerce Fulfilment'
 date: '2024-02-25T16:23:08Z'
 categories: [Examples]
-weight: 100
+weight: 105
 tags: [test, sample, docs]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Our Warehouse Management System'
 date: '2024-02-25T16:27:51Z'
 categories: [Examples]
-weight: 100
+weight: 106
 tags: [test, sample, docs]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Barcodes & SKUs'
 date: '2024-02-25T16:15:15Z'
 categories: [Examples]
-weight: 100
+weight: 102
 tags: [test, sample, docs]
 ---
 It's essential that we correctly identify your products to allow us to store it correctly, 

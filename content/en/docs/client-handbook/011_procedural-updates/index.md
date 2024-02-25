@@ -2,7 +2,7 @@
 title: 'Procedural Updates'
 date: '2024-02-25T18:04:46Z'
 categories: [Examples]
-weight: 100
+weight: 111
 tags: [test, sample, docs]
 ---
 

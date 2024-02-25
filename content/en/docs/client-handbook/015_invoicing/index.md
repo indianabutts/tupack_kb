@@ -2,7 +2,7 @@
 title: 'Invoicing'
 date: '2024-02-25T18:28:57Z'
 categories: [Examples]
-weight: 100
+weight: 115
 tags: [test, sample, docs]
 ---
 

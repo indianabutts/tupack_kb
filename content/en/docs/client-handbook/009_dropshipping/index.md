@@ -2,7 +2,7 @@
 title: 'Drop Shipping'
 date: '2024-02-25T17:56:06Z'
 categories: [Examples]
-weight: 100
+weight: 109
 tags: [test, sample, docs]
 ---
 

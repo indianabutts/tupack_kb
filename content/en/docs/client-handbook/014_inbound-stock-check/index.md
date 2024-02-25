@@ -2,7 +2,7 @@
 title: 'Inbound Stock Check'
 date: '2024-02-25T18:15:38Z'
 categories: [Examples]
-weight: 100
+weight: 114
 tags: [test, sample, docs]
 ---
 

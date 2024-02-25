@@ -2,7 +2,7 @@
 title: 'Returns'
 date: '2024-02-25T18:11:00Z'
 categories: [Examples]
-weight: 100
+weight: 113
 tags: [test, sample, docs]
 ---
 When your customer wishes to return their order, please advise they send it to the below

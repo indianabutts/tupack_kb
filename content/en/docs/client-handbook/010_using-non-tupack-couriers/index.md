@@ -2,7 +2,7 @@
 title: 'Using Non Tu Pack Couriers'
 date: '2024-02-25T18:01:16Z'
 categories: [Examples]
-weight: 100
+weight: 110
 tags: [test, sample, docs]
 ---
 We acknowledge that your business may decide to ship through a courier provider that Tu Pack

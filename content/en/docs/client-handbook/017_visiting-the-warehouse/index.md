@@ -2,7 +2,7 @@
 title: 'Visiting the Warehouse'
 date: '2024-02-25T18:36:26Z'
 categories: [Examples]
-weight: 100
+weight: 117
 tags: [test, sample, docs]
 ---
 > We love having you come to visit the warehouse to see your stock and our team, please read the following information about booking a visit and some guidance whilst you're on site
