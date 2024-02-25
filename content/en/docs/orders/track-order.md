@@ -23,7 +23,7 @@ You can find all of this information using your Mintsoft orders, as you can see 
 
 ## Courier Instructions
 
-{{< tabpane text=true right=false >}}sasd
+{{< tabpane text=true right=false >}}
   {{% tab header="DPD" %}}
   To track a DPD parcel, use this [link](https://www.dpd.co.uk/content/how-can-we-help/index.jsp).
   There you can enter the tracking number and the postcode to the __Receiving a parcel?__ panel.

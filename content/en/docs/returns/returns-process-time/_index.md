@@ -1,5 +1,5 @@
 ---
-title: 'Returns Process Time'
+title: 'Returns Processing Time'
 date: '2024-02-25T11:04:23Z'
 categories: [Examples]
 weight: 100

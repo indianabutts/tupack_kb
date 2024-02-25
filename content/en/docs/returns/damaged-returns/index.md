@@ -1,5 +1,5 @@
 ---
-title: Returns with Damaged Goods
+title: Damaged Goods
 date: 2017-01-05
 categories: [Examples]
 weight: 2
