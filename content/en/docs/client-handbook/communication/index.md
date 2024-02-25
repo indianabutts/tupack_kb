@@ -6,6 +6,12 @@ weight: 100
 tags: [test, sample, docs]
 ---
 
+{{% alert title="SLA Eligibility" color="warning" %}} 
+
+Only requests submitted through the Support Portal are subject to the Communications Service Level Agreement policy.
+
+{{% /alert %}}
+
 Our Customer Success Team can assist you with all of your Tu Pack related queries, from a questions about an ASN to an update to your courier preferences. You can get in touch with them via our Success Portal, which you can find by [clicking here](https://support.tupack.co.uk/hc/en-gb)
 
 ## Best Practices
