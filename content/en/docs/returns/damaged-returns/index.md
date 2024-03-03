@@ -5,7 +5,7 @@ categories: [Examples]
 weight: 2
 tags: [test, sample, docs]
 ---
-If we receive a return that contains damaged goods we will process the return on Mintsoft in order to notify you that this item is damaged. The notification should include an image of the damage, in order to help you inform your decision regarding the next steps. 
+HELLO If we receive a return that contains damaged goods we will process the return on Mintsoft in order to notify you that this item is damaged. The notification should include an image of the damage, in order to help you inform your decision regarding the next steps. 
 
  
 
